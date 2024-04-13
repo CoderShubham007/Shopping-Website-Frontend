@@ -1,3 +1,6 @@
-Online Shopping System (Frontend)
+# Fashion HUB
 
-Used the concept of HTML, CSS, JavaScript to build an amazing shopping website during my Minor Project Session
+## Online Shopping System ( HTML, CSS, Javascript )
+
+### See the Live Website here:
+https://codershubham007.github.io/Shopping-Website-Frontend/
